@@ -11,7 +11,12 @@ Soy un desarrollador web full stack apasionado por crear soluciones tecnológica
 - **Otros:** Git, GitHub, Cloudinary, MercadoPago
 
 ## 💼 Proyectos Destacados
-
+### [Control de stock]
+https://github.com/Facundo080808/Control-de-stock
+- **Frontend:** React, Redux
+- **Backend:** Node.js, Express, PostgreSQL
+- **Integraciones:** Electron.js
+Un proyecto full stack donde desarrollé un control de stock para el negocio donde trabajo temporalmente, como novedad utilice electron para crear la aplicacion en el escritotio.
 ### [E-commerce de Zapatillas]
 https://github.com/Facundo080808/app-de-zapatillas-back
 https://github.com/Facundo080808/app-de-zapatillas-front
@@ -23,6 +28,11 @@ Un proyecto full stack donde desarrollé un e-commerce de zapatillas con funcion
 
 ### [The Hose Factory](https://github.com/Uristides/PF-Mangueras-F)(https://github.com/Uristides/PF-Mangueras-B)
 Proyecto final de henry, creado por un equipo de 6 integrantes incluyendome, es un e-Commerce de una fabrica de mangueras, llamada The Hose Factory
+###[Dogs PI]
+https://github.com/Facundo080808/Dogs-PI
+Fue mi primer proyecto personal.
+- **Frontend:** React, Redux
+- **Backend:** Node.js, Express, PostgreSQL
 
 ## 📫 Cómo Contactarme
 
