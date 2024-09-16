@@ -28,7 +28,7 @@ Un proyecto full stack donde desarrollé un e-commerce de zapatillas con funcion
 
 ### [The Hose Factory](https://github.com/Uristides/PF-Mangueras-F)(https://github.com/Uristides/PF-Mangueras-B)
 Proyecto final de henry, creado por un equipo de 6 integrantes incluyendome, es un e-Commerce de una fabrica de mangueras, llamada The Hose Factory
-###[Dogs PI]
+### [Dogs PI]
 https://github.com/Facundo080808/Dogs-PI
 Fue mi primer proyecto personal.
 - **Frontend:** React, Redux
