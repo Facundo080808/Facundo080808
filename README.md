@@ -5,10 +5,10 @@ Soy un desarrollador web full stack apasionado por crear soluciones tecnológica
 ## 🚀 Tecnologías y Herramientas
 
 - **Lenguajes:** JavaScript, HTML, CSS
-- **Frontend:** React, Redux, Vite, Astro ,Tailwind
+- **Frontend:** React, Redux, Vite, Astro, Tailwind, Bootstrap, Figma
 - **Backend:** Node.js, Express, Sequelize
 - **Base de Datos:** PostgreSQL
-- **Otros:** Git, GitHub, Cloudinary, MercadoPago
+- **Otros:** Git, GitHub, Cloudinary, MercadoPago, Electron.js, Postman
 
 ## 💼 Proyectos Destacados
 ### Control de stock
